@@ -6,7 +6,7 @@ const COMMANDS = {
     "I love to learn and share. <br>" +
     "I love developing and improving. <br>" +
     "I'm all open to new technologies and new tools to make. <br>" +
-    "I admire The Matrix and the Star Wars universe.",
+    "I admire The Matrix and The Star Wars universe.",
   education:
     "<a href='https://www.ayvansaray.edu.tr/' class='success link' target='_blank'> İstanbul Ayvansaray Üniversitesi</a>, Istanbul <br> Bachelor of Computer Programming <br> <a href='https://ist-fef.omu.edu.tr/tr' class='success link' target='_blank'> Ondokuz Mayıs Üniversitesi</a>, Samsun <br> Statistics Student",
   skills:
