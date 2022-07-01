@@ -5,20 +5,23 @@ const COMMANDS = {
     "Hello!<br>I'm İbrahim Aykut. I am a curious and open minded software developer. <br>" +
     "I love to learn and share. <br>" +
     "I love developing and improving. <br>" +
-    "I'm all open to new technologies and new tools to make. <br>" +
     "I admire The Matrix and The Star Wars universe.",
   education:
     "<a href='https://www.ayvansaray.edu.tr/' class='success link' target='_blank'> İstanbul Ayvansaray Üniversitesi</a>, Istanbul <br> Bachelor of Computer Programming <br> <a href='https://ist-fef.omu.edu.tr/tr' class='success link' target='_blank'> Ondokuz Mayıs Üniversitesi</a>, Samsun <br> Statistics Student",
   skills:
-    '<span class="code">Turkish(Native)<br><span class="code">Languages:</span> JavaScript<br><span class="code">Technologies:</span> Firebase <br><span class="code">Frameworks:</span> React.JS, React Native',
-  experience: "Konuşarak Öğren 2019 <br> - Currently",
+    '<span class="code">Turkish(Native) | English (Limited Working Competence)<br><span class="code">Languages:</span> JavaScript <br><span class="code">Frameworks:</span> React Native, React.JS, <br> <span class="code">Technologies:</span> Redux, Firebase <br>',
+  experience: "Konuşarak Öğren <br> 2019 - Currently",
   projects:
-    "KitApp",
+    "KitApp: <br> A free category-based English book reading and listening app. <br> <br>" +
+    "Konuşarak Öğren: <br> The under construction <br> <br>" +
+    "Azər İngiliscə - The under construction <br> <br>" +
+    "Alingliziah: <br> The under construction <br> <br>",
   interests:
     "To follow the latest software and hardware developments in technology, to consume the music and movies of the past, to follow the developments in space, to play video games.",
   contact:
     "You can contact me on any of following links: <a href='https://www.instagram.com/ibrahimaykutbas/' class='success link' target='_blank'>Instagram</a>, <a href='https://www.twitter.com/ibrahimaykutbas/' class='success link' target='_blank'>Twitter</a>, <a href='https://github.com/ibrahimaykutbas' class='success link' target='_blank'>GitHub</a>, <a href='https://linkedin.com/in/ibrahimaykutbas' class='success link' target='_blank'>LinkedIn</a>",
 };
+
 let userInput, terminalOutput;
 
 const app = () => {
