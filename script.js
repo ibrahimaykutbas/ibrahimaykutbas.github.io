@@ -11,7 +11,7 @@ const COMMANDS = {
     "<a href='https://www.ayvansaray.edu.tr/' class='success link' target='_blank'> İstanbul Ayvansaray Üniversitesi</a>, Istanbul <br> Bachelor of Computer Programming <br> <a href='https://ist-fef.omu.edu.tr/tr' class='success link' target='_blank'> Ondokuz Mayıs Üniversitesi</a>, Samsun <br> Statistics Student",
   skills:
     '<span class="code">Turkish(Native)<br><span class="code">Languages:</span> JavaScript<br><span class="code">Technologies:</span> Firebase <br><span class="code">Frameworks:</span> React.JS, React Native',
-  experience: "Konuşarak Öğren 2019 - Currently",
+  experience: "Konuşarak Öğren 2019 <br> - Currently",
   projects:
     "KitApp",
   interests:
