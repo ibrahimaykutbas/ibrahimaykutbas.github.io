@@ -9,12 +9,12 @@ const COMMANDS = {
   education:
     "<a href='https://www.ayvansaray.edu.tr/' class='success link' target='_blank'> İstanbul Ayvansaray Üniversitesi</a>, Istanbul <br> Bachelor of Computer Programming <br> <a href='https://ist-fef.omu.edu.tr/tr' class='success link' target='_blank'> Ondokuz Mayıs Üniversitesi</a>, Samsun <br> Statistics Student",
   skills:
-    '<span class="code">Turkish(Native) | English (Limited Working Competence)<br><span class="code">Languages:</span> JavaScript <br><span class="code">Frameworks:</span> React Native, React.JS, <br> <span class="code">Technologies:</span> Redux, Firebase <br>',
-  experience: "Konuşarak Öğren <br> 2019 - Currently",
+    '<span class="code">Turkish (Native) | English (Limited Working Competence)<br><span class="code">Languages:</span> JavaScript <br><span class="code">Frameworks:</span> React Native, React.JS, <br> <span class="code">Technologies:</span> Redux, Firebase <br>',
+  experience: "Konuşarak Öğren <br> 2021 - Currently",
   projects:
     "KitApp: <br> A free category-based English book reading and listening app. <br> <br>" +
     "Konuşarak Öğren: <br> The under construction <br> <br>" +
-    "Azər İngiliscə - The under construction <br> <br>" +
+    "Azər İngiliscə: <br> The under construction <br> <br>" +
     "Alingliziah: <br> The under construction <br> <br>",
   interests:
     "To follow the latest software and hardware developments in technology, to consume the music and movies of the past, to follow the developments in space, to play video games.",
